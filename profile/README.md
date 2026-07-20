@@ -7,7 +7,7 @@ documentados desde o início.
 
 ---
 
-## Time
+## Integrantes
 
 - **[Alfredo Guimarães](https://github.com/Alphynha)**
 - **[Maria Cecília](https://github.com/ceciliahorta)**
